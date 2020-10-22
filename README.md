@@ -3,7 +3,7 @@ Meals app created with React Native, Redux and Expo, populated with dummy data w
 
 To install dependencies:
 ```
-npm install --save
+npm install
 ```
 To run development server
 ```
